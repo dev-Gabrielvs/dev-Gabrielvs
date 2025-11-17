@@ -3,7 +3,7 @@
 [![dev-Gabrielvs GitHub followers](https://custom-icon-badges.demolab.com/github/followers/dev-Gabrielvs?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white)](https://github.com/dev-Gabrielvs?tab=followers)
 [![dev-Gabrielvs Github stars](https://custom-icon-badges.demolab.com/github/stars/dev-Gabrielvs?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=estrelas)](https://github.com/dev-Gabrielvs?tab=repositories&sort=stargazers)  
 [![dev-Gabrielvs Instagram](https://custom-icon-badges.demolab.com/badge/Instagram-C13584?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/gaaabriel.silva_/)
-[![dev-Gabrielvs Linkedin](https://img.shields.io/badge/Linkedin-blue?style=for-the-badge&link=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fdev-gabrielvs%2F)](www.linkedin.com/in/dev-gabrielvs)
+[![dev-Gabrielvs Linkedin](https://img.shields.io/badge/Linkedin-blue?style=for-the-badge&link=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fdev-gabrielvs%2F)](https://www.linkedin.com/in/dev-gabrielvs)
 ![dev-Gabrielvs location](https://custom-icon-badges.demolab.com/badge/Itapajé-BR-darkgreen?style=for-the-badge&logo=location&logoColor=white)
 
 ---
