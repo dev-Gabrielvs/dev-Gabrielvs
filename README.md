@@ -34,3 +34,9 @@ I am 17 years old and currently live in Itapajé-CE, where I am in the 3rd year 
   <img src="https://github-readme-stats.vercel.app/api?username=dev-Gabrielvs&show_icons=true&theme=transparent&include_all_commits=true&locale=pt-br&hide_border=true" alt="dev-GabrielVS's GitHub stats" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dev-Gabrielvs&theme=transparent&locale=pt-br&hide_border=true" alt="Top Langs"  />
 </div>
+
+<picture align="center">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/dev-gabrielvs/dev-gabrielvs/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/dev-gabrielvs/dev-gabrielvs/output/github-contribution-grid-snake-dark.svg">
+  <img align="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/dev-gabrielvs/dev-gabrielvs/output/github-contribution-grid-snake.svg">
+</picture>
