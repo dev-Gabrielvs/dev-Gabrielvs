@@ -26,5 +26,5 @@ I am 17 years old and currently live in Itapajé-CE, where I am in the 3rd year 
 
 ### 📊 Estatísticas
 
-![dev-GabrielVS's GitHub stats](https://github-readme-stats.vercel.app/api?username=dev-Gabrielvs&show_icons=true&theme=transparent&include_all_commits=true&locale=pt-br)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dev-Gabrielvs&theme=transparent&locale=pt-br)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dev-Gabrielvs&theme=transparent&locale=pt-br&hide_border=true)
+![dev-GabrielVS's GitHub stats](https://github-readme-stats.vercel.app/api?username=dev-Gabrielvs&show_icons=true&theme=transparent&include_all_commits=true&locale=pt-br&hide_border=true)
